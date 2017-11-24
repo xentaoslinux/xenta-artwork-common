@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=XentaOS
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
