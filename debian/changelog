@@ -1,3 +1,9 @@
+xenta-artwork-common (3.1.5) batik; urgency=medium
+
+  * Perbaikan Bugs artwork cups printer-default.pdf
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Wed, 13 Feb 2019 09:31:05 +0700
+
 xenta-artwork-common (3.1.4) batik; urgency=medium
 
   * Pembaharuan berkas debian
