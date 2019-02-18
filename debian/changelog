@@ -1,3 +1,9 @@
+xenta-artwork-common (3.1.6) batik; urgency=medium
+
+  * Perbaikan Home menjadi default firefox about:home
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 18 Feb 2019 20:26:02 +0700 
+
 xenta-artwork-common (3.1.5) batik; urgency=medium
 
   * Perbaikan Bugs artwork cups printer-default.pdf
