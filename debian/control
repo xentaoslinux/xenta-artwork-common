@@ -13,4 +13,4 @@ Depends: xentasystem, xenta-artwork
 Replaces: mint-artwork-common
 Conflicts: mint-artwork-common
 Description: Paket Base Pasangan Artwork Xenta OS.
- Paket Artwork dan KOnfigurasi Bawaan Xenta OS semua edisi.
+ Paket Artwork dan Konfigurasi Bawaan Xenta OS semua edisi.

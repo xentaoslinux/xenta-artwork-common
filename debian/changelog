@@ -1,3 +1,9 @@
+xenta-artwork-common (3.1.7+xentaos2) batik; urgency=medium
+
+  * Pengepakan paket buat rilis "batik" stable
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Sat, 02 Mar 2019 21:59:58 +0700 
+
 xenta-artwork-common (3.1.6) batik; urgency=medium
 
   * Perbaikan Home menjadi default firefox about:home
